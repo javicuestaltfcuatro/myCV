@@ -1,9 +1,9 @@
 
 # myCV
 Curriculum Vitae 2020
-## Welcome to GitHub Pages
+## Javier Cuesta
 
-You can use the [editor on GitHub](https://github.com/javicuestaltfcuatro/myCV/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Objetivo: satisfacción personal y obtener un entorno de trabajo bueno y seguro
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
