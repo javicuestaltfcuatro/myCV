@@ -1,13 +1,13 @@
 ## Javier Cuesta
 
-#Sobre mí
+# Sobre mí
 Domicilio: Paseo del Cierzo N15
 Población: Berrioplano (Navarra)
 Código Postal: 31195
 Fecha nacimiento: 07/03/2001
 DNI: 3265865M
 
-##Contacto
+## Contacto
 Móvil: 601286455
 Correo: javiercuesta007@gmail.com
 
