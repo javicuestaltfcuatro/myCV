@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+## Javier Cuesta
 
-You can use the [editor on GitHub](https://github.com/javicuestaltfcuatro/myCV/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+#Sobre mí
+Domicilio: Paseo del Cierzo N15
+Población: Berrioplano (Navarra)
+Código Postal: 31195
+Fecha nacimiento: 07/03/2001
+DNI: 3265865M
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+##Contacto
+Móvil: 601286455
+Correo: javiercuesta007@gmail.com
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Titulaciones
+
+Titulaciones y certificados de idiomas
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Actualmente en Grado Superior de Desarrollo de aplicaciones multiplataforma en Cuatro vientos
+Bachillerato en IES Navarro Villoslada
+DELF A2 de Francés
+PET B1 de Inglés
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Lenguajes nformáticos usados
 
-### Jekyll Themes
+Java, python, visual basic, mblockarduino, arduino, appinventor
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/javicuestaltfcuatro/myCV/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Experiencia laboral
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Entrenador de fútbol en Irabia y en la barra en el Multiberri de Berrioplano
